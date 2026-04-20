@@ -26,21 +26,6 @@ Currently learning ethical hacking, web exploitation, and computer networks.
 
 ---
 
-## 🗂️ Projects
-
-| Project | Domain | What it does |
-|---|---|---|
-| 🔓 Doli 1 CTF | Penetration Testing | Full-chain VAPT — Recon → SQLi → RCE → Root |
-| 🎹 Basic Keylogger Lab | Malware Analysis | Keystroke capture + HTTP exfiltration over 2 VMs |
-| 🎬 CineCast | Web Dev | Role-based streaming platform with creator dashboard |
-| 🤬 Toxic Comment Classifier | ML / NLP | Multilingual classifier (EN/Marathi/code-mix) with XLM-RoBERTa |
-| ⚙️ Multicore Scheduler | Systems | ACO + priority hybrid scheduler for real-time multi-core systems |
-| 🔑 CryptoKit | Cryptography | Caesar, Affine, Hill, RSA, Rabin in Python |
-| 🏥 TeleHealth Nabha (SIH) | Web Dev | Telemedicine frontend — video consult & AI symptom check |
-| ☕ Coco & Beans | Web Dev | Responsive coffee shop site with menu, booking & cart |
-
----
-
 ## 📊 GitHub Stats
 
 ![TABBY0090's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TABBY0090&show_icons=true&theme=dark&hide_border=true)
